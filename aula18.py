@@ -1,3 +1,6 @@
+
+
+
 condicao1 = True
 condicao2 = True
 condicao3 = True
